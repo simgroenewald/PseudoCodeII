@@ -1,0 +1,13 @@
+Start
+	Prompt user to enter name
+	Store users entry as variable first name
+	Print first name variable and the string hello world
+End
+
+Start
+	Prompt user to enter age
+	Store the users entry as a variable age
+	If the variable age is = or > 18 then print the string you are old enough
+	If the variable age is => 16 but < 18 then print the string almost there
+	If the variable age is < 16 then print the string you are just to young
+End
